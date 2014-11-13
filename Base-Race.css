@@ -1,0 +1,9 @@
+.big-heading{
+    color : red;
+    position: absolute;
+    padding: 10px;
+}
+
+#small-heading{
+    color : yellow;
+}
