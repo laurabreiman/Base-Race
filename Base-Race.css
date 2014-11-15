@@ -21,3 +21,7 @@
 .connectedSortable { 
     list-style-type: none; 
 }
+
+#nucleotides {
+    border: 1px dashed black;
+}
