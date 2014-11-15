@@ -17,3 +17,7 @@
 .nucleotide {
     display : inline;
 }
+
+.connectedSortable { 
+    list-style-type: none; 
+}
