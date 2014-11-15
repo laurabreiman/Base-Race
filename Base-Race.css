@@ -17,3 +17,13 @@
 .nucleotide {
     display : inline;
 }
+
+div.mouseover
+{
+    width:100%
+    display:block;
+    position:relative;
+    text-align: center;
+    
+}
+
